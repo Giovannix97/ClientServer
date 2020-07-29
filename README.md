@@ -1,5 +1,5 @@
 # ClientServer
 
-## A Basic Client-Server architecture.
+**A Basic Client-Server architecture.**
 
-### Type exit or bye to stop the program.
+*Type exit or bye to stop the program*
